@@ -1,11 +1,10 @@
 function forLoop() {
   const array = []
-  const a = 26
 
-  for (let i = 1; i < a; i++) {
+  for (let i = 1; i < 25; i++) {
     array.push("I am a strange loop.")
   }
 
-  return [array, a]
+  return [array]
 }
 
