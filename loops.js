@@ -23,7 +23,7 @@ function whileLoop(n){
   return "done";
 }
 
-var 1 = 0;
+var i = 0;
 
 function doWhileLoop(array){
   
