@@ -24,5 +24,5 @@ function whileLoop(n){
 }
 
 function doWhileLoop(array){
-  fuction maybeTrue()
+  function maybeTrue()
 }
