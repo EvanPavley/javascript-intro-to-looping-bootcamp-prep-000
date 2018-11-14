@@ -13,4 +13,4 @@ function forLoop(array) {
   return array;
 }
 
-function while
+function whileLoop(n)
